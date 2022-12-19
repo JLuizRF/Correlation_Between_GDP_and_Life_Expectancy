@@ -10,3 +10,6 @@ The sample correlation coefficient, r, quantifies the strength of the relationsh
 ### What are some limitations of correlation analysis?
 Correlation can’t look at the presence or effect of other variables outside of the two being explored. Importantly, correlation doesn’t tell us about cause and effect. Correlation also cannot accurately describe curvilinear relationships.
 
+### Are you ready to explore the project results?
+If yes, go ahead and check out how the analysis was made and the possible conclusions. 
+
