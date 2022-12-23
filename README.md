@@ -8,7 +8,7 @@ One of the interesting variables to look at is Life Expectancy, as it is the key
 
 So, with this in mind, this project aims to analyze the correlation between Life Expectancy and GDP to get a better understanding of the relationship between these two variables. 
 
-# Correlation_Between_GDP_and_Life_Expectancy
+# Correlation Between GDP and Life Expectancy
 This project aims to analyze the correlation between GDP and Life Expectancy in six countries with different social, economic, and geographic realities. 
 
 ### But what is correlation? 
