@@ -1,12 +1,14 @@
-# Is a high GDP a good thing for a country? Can Life Expectancy tell us something about it? 
+# Is a high GDP a good thing for a country? Can Life Expectancy tell us something about it?
 
-Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period. As such, it also measures the income earned from that production, or the total amount spent on final goods and services (less imports).
+Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period.
 
-GDP is a famous and common measure method, but does it has a real positive impact as it goes up. Determining cause and effect is not a simple thing to do, but we can get a closer look at other important variables and comparate their correlation with GDP, to get a better understanding of this matter.   
+GDP is a famous and common measurement method. But does it has a real positive impact as it goes up? 
 
-One of the interesting variables to look at is Life Expectancy, as it is the key metric for assessing population health. Broader than the narrow metric of the infant and child mortality, which focus solely at mortality at a young age, life expectancy captures the mortality along the entire life course. It tells us the average age of death in a population.
+Determining cause and effect is not a simple thing to do, but we can get a closer look at other important variables and comparate their correlation with GDP, to get a better understanding of this matter.
 
-So, with this in mind, this project aims to analyze the correlation between Life Expectancy and GDP to get a better understanding of the relationship between these two variables. 
+One of the interesting variables to look at is Life Expectancy, as it is the key metric for assessing population health. 
+
+So, with this in mind, this project aims to analyze the correlation between Life Expectancy and GDP to get a better understanding of the relationship between these two variables.
 
 # Correlation Between GDP and Life Expectancy
 This project aims to analyze the correlation between GDP and Life Expectancy in six countries with different social, economic, and geographic realities. 
